@@ -1,1 +1,1 @@
-Reviewing HTML fundamentals like: figure, figcaption & anchor.
+Reviewing HTML Fundamentals like: figure, figcaption & anchor.
